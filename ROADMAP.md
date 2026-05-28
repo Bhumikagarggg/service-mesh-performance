@@ -15,5 +15,5 @@
 - Exchange of performance information from system-to-system / mesh-to-mesh.
 
 #### Area: Research
-- collaborative, academic research on a universal performance index to gauge a service mesh’s efficiency against deployments in other organizations’ environments.
+- collaborative, academic research on a universal performance index to gauge a service mesh’s efficiency against deployments in other orga nizations’ environments.
 - collaborative, academic research on performance characterization of new distributing tracing sampling algorithms.
