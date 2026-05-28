@@ -19,7 +19,7 @@
 A common format for capturing and describing:
 
 1. performance test configuration
-1. service mesh configuration
+1. service mesh  configuration
 1. environment configuration
 1. workload configuration
 1. performance test results
