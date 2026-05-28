@@ -7,7 +7,7 @@
 [![GitHub issues by-label](https://img.shields.io/github/issues/layer5io/service-mesh-performance/help%20wanted.svg)](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+archived%3Afalse+org%3Alayer5io+label%3A%22help+wanted%22+")
 [![Website](https://img.shields.io/website/https/layer5.io/meshery.svg)](https://smp-spec.io)
 [![Join Slack](https://img.shields.io/badge/Slack-@layer5.svg?logo=slack)](http://slack.meshery.io)
-[![CLI Best Practices](https://bestpractices.coreinfrastructure.org/projects/5054/badge)](https://bestpractices.coreinfrastructure.org/projects/5054)
+[![CLI Best Prac tices](https://bestpractices.coreinfrastructure.org/projects/5054/badge)](https://bestpractices.coreinfrastructure.org/projects/5054)
 
 </div>
 
